@@ -19,13 +19,13 @@ function Hero() {
         <div className="shopping">
           <p>Also avaliable on</p>
           <div className="icons">
-            <img src="src/assets/images/amazon.png" alt="amzn-logo" />
-            <img src="src/assets/images/flipkart.png" alt="flpkrt-logo" />
+            <img src="images/amazon.png" alt="amzn-logo" />
+            <img src="images/flipkart.png" alt="flpkrt-logo" />
           </div>
         </div>
       </div>
       <div className="hero-imh">
-        <img src="src/assets/images/shoe_image.png" alt="hero-img" />
+        <img src="images/shoe_image.png" alt="hero-img" />
       </div>
     </main>
   );
